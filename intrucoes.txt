@@ -171,3 +171,7 @@ criar na raiz do projeto um arquivo chamado .gitignore com o conteudo:
 
 
 <7> Caso precise do banco de dados usado importar o arquivo myteam.sql no phpmyadmin.
+
+
+<8> Verificar link no index.php de importação do bootstrap e fontawesome
+usar php para gerar o icone corretamente!
